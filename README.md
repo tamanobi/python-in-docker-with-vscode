@@ -19,7 +19,7 @@ Quick Start
 | --------------------------------------------- | -------------------------- |
 | Japanese Language Pack for Visual Studio Code | Japanese Language Display  |
 | Python                                        | Can Use Python             |
-| Apel for python                               | Real Time Debug for Python |
+| AREPL for python                              | Real Time Debug for Python |
 
 ## Python-Package
 
